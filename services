@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Υπηρεσίες | Επιδιορθώσεις Δερμάτινων Κιλκίς</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<h1>Υπηρεσίες</h1>
+
+<nav>
+
+<a href="index.html">Αρχική</a>
+<a href="services.html">Υπηρεσίες</a>
+<a href="gallery.html">Εργασίες</a>
+<a href="about.html">Σχετικά</a>
+<a href="contact.html">Επικοινωνία</a>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="container">
+
+<h2>Οι Υπηρεσίες μας</h2>
+
+<ul class="service-list">
+
+<li>Επιδιόρθωση δερμάτινων μπουφάν</li>
+<li>Επιδιόρθωση δερμάτινων τσαντών</li>
+<li>Αλλαγή φερμουάρ</li>
+<li>Μεταποιήσεις ρούχων</li>
+<li>Ραφές και επιδιορθώσεις</li>
+
+</ul>
+
+</section>
+
+<footer>
+
+<p>© 2026 Επιδιορθώσεις Δερμάτινων Κιλκίς</p>
+
+</footer>
+
+</body>
+
+</html>
