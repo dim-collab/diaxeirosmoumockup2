@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Εργασίες | Επιδιορθώσεις Δερμάτινων Κιλκίς</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Εργασίες</h1>
+
+</header>
+
+<section class="container">
+
+<h2>Δείγματα Δουλειάς</h2>
+
+<div class="gallery">
+
+<img src="images/work1.jpg" alt="επιδιόρθωση δερμάτινου μπουφάν κιλκίς">
+
+<img src="images/work2.jpg" alt="επισκευή τσάντας δερμάτινης">
+
+<img src="images/work3.jpg" alt="αλλαγή φερμουάρ μπουφάν">
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 Επιδιορθώσεις Δερμάτινων Κιλκίς</p>
+
+</footer>
+
+</body>
+
+</html>
