@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Επιδιορθώσεις Δερμάτινων Κιλκίς | Μεταποιήσεις Ρούχων</title>
+
+<meta name="description" content="Επαγγελματικές επιδιορθώσεις δερμάτινων ειδών και μεταποιήσεις ρούχων στο Κιλκίς. Επιδιόρθωση μπουφάν, τσαντών και αλλαγή φερμουάρ.">
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<h1>Επιδιορθώσεις Δερμάτινων Κιλκίς</h1>
+
+<nav>
+
+<a href="index.html">Αρχική</a>
+<a href="services.html">Υπηρεσίες</a>
+<a href="gallery.html">Εργασίες</a>
+<a href="about.html">Σχετικά</a>
+<a href="contact.html">Επικοινωνία</a>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="container">
+
+<h2>Επαγγελματικές Επιδιορθώσεις Δερμάτινων & Μεταποιήσεις Ρούχων</h2>
+
+<p>Ποιοτικές επιδιορθώσεις σε δερμάτινα μπουφάν, τσάντες και ρούχα στο Κιλκίς.</p>
+
+<a class="btn" href="contact.html">Επικοινωνήστε Μαζί Μας</a>
+
+</div>
+
+</section>
+
+<section class="services-preview">
+
+<div class="container">
+
+<h2>Οι Υπηρεσίες μας</h2>
+
+<div class="grid">
+
+<div class="card">
+
+<h3>Επιδιόρθωση Δερμάτινων</h3>
+
+<p>Επιδιόρθωση δερμάτινων μπουφάν, τσαντών και άλλων ειδών.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Αλλαγή Φερμουάρ</h3>
+
+<p>Αντικατάσταση και επισκευή φερμουάρ σε μπουφάν και τσάντες.</p>
+
+</div>
+
+<div class="card">
+
+<h3>Μεταποιήσεις Ρούχων</h3>
+
+<p>Μετατροπές και προσαρμογές σε ρούχα για τέλεια εφαρμογή.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="cta">
+
+<div class="container">
+
+<h2>Χρειάζεστε επιδιόρθωση;</h2>
+
+<p>Καλέστε μας σήμερα για άμεση εξυπηρέτηση.</p>
+
+<a class="btn" href="tel:+30XXXXXXXXX">Καλέστε Τώρα</a>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="container">
+
+<p>© 2026 Επιδιορθώσεις Δερμάτινων Κιλκίς</p>
+
+</div>
+
+</footer>
+
+</body>
+
+</html>
