@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Επικοινωνία | Επιδιορθώσεις Δερμάτινων Κιλκίς</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Επικοινωνία</h1>
+
+</header>
+
+<section class="container">
+
+<h2>Επικοινωνήστε Μαζί Μας</h2>
+
+<p>Τηλέφωνο: +30XXXXXXXXX</p>
+
+<p>Τοποθεσία: Κιλκίς</p>
+
+<iframe
+src="https://www.google.com/maps?q=kilkis&output=embed"
+width="100%"
+height="300"
+style="border:0;">
+</iframe>
+
+</section>
+
+<footer>
+
+<p>© 2026 Επιδιορθώσεις Δερμάτινων Κιλκίς</p>
+
+</footer>
+
+</body>
+
+</html>
